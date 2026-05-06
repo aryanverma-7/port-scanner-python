@@ -46,4 +46,4 @@ This tool is for educational purposes only. Use it only on systems you own or ha
 
 ## 👨‍💻 Author
 
-Your Name
+Aryan Verma
